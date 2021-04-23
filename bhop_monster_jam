@@ -1,0 +1,1 @@
+INSERT INTO "mapzones" ("id","map","type","corner1_x","corner1_y","corner1_z","corner2_x","corner2_y","corner2_z","destination_x","destination_y","destination_z","track","flags","data") VALUES (NULL,'bhop_monster_jam',0,736.0,-2672.0,3778.156,464.0,-2480.0,3906.338,0.0,0.0,0.0,0,0,0),(NULL,'bhop_monster_jam',1,80.0,1120.0,4245.866,1856.0,64.0,4409.265,0.0,0.0,0.0,0,0,0);
